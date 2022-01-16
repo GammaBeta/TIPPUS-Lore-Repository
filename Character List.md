@@ -5,7 +5,7 @@
 ## Mini-Bosses
 ## Enemies
 
-# Origina Characters
+# Original Characters
 ## Villains
 ## Side Characters
 ## Bosses
