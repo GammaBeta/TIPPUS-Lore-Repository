@@ -1,4 +1,4 @@
-(underline means OC)
+(italics means OC)
 
 ## Gamma
 **Main:**
