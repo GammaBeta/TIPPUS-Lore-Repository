@@ -1,11 +1,11 @@
-# Canon Characters
+## Canon Characters
 ### Villains
 ### Side Characters
 ### Bosses
 ### Mini-Bosses
 ### Enemies
 
-# Original Characters
+## Original Characters
 ### Villains
 ### Side Characters
 ### Bosses
