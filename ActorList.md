@@ -22,4 +22,4 @@ Virus (shared with Gamma and Blu), Holo-Defense (shared with Gamma, Magma, and O
 **Miniboss:**
 Javelin Knight <br>
 **Minor:**
-Blockin, J1, Gim( pronounced Jim), Shotzo, Moto Shotzo, Walky, _Kaboomba, Virus's Host_ <br>
+Blockin, J1, Gim( pronounced Jim), Shotzo, Moto Shotzo, Walky, Parasol and Parasol WD, _Kaboomba, Virus's Host_ <br>
