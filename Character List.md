@@ -41,8 +41,17 @@
 
 ## Original Characters
 ### Main Characters
+* Angel - Holly
+* Rea the Dreedorus - Yoyodoodles
+* Rebarx - MarxyBoi
 ### Side Characters
+* Pilot Dee - GammaRaul
+* Sammy - Yoyodoodles
 ### Villains
+* Anti-Matter Blade - GammaRaul
+* Aux the Dreedorus - Yoyodoodles
+* Manga Marx - MarxyBoi
 ### Bosses
 ### Mini-Bosses
 ### Enemies
+* Kaboomba/Virus Vessel - Theopold
