@@ -20,6 +20,7 @@
 ### Bosses
 * Computer Virus - GammaRaul, Thepold and BluberryDee
 * Heavy Lobster - Omega Knight 64
+* Holo-Defense API - GammaRaul, Theopold, Magma and Omega Knight 64
 * Silver Doomer - Omega Knight 64
 ### Mini-Bosses
 * Chef Kawasaki - Yoyodoodles
