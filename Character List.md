@@ -18,9 +18,9 @@
 * Dark Meta Knight - Acorn Acrom
 * Zero - GammaRaul
 ### Bosses
-* Computer Virus - GammaRaul, Thepold and BluberryDee
+* Computer Virus - BluberryDee, GammaRaul and Theopold
 * Heavy Lobster - Omega Knight 64
-* Holo-Defense API - GammaRaul, Theopold, Magma and Omega Knight 64
+* Holo-Defense API - GammaRaul, Magma, Omega Knight 64 and Theopold
 * Silver Doomer - Omega Knight 64
 ### Mini-Bosses
 * Chef Kawasaki - Yoyodoodles
@@ -35,7 +35,7 @@
 * Como - Omega Knight 64
 * Gim - Theopold
 * Plasma Wisp - Omega Knight 64
-* Shotzo/Moto Shotzo - Theopold and Nullblaster >Void<
+* Shotzo/Moto Shotzo - Nullblaster >Void< and Theopold
 * Waddle Dee - GammaRaul
 * Waddle Doo - GammaRaul
 * Walky - Theopold
