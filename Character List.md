@@ -45,6 +45,9 @@
 * Angel - Holly
 * Rea the Dreedorus - Yoyodoodles
 * Rebarx - MarxyBoi
+* Scorch - Magma
+* Frigi - Magma
+* Sylvianna - Magma
 ### Side Characters
 * Pilot Dee - GammaRaul
 * Sammy - Yoyodoodles
