@@ -43,10 +43,11 @@
 ## Original Characters
 ### Main Characters
 * Angel - Holly
+* Frigi - Magma
 * Rea the Dreedorus - Yoyodoodles
 * Rebarx - MarxyBoi
 * Scorch - Magma
-* Frigi - Magma
+* Sylvia (Mage) - Holly
 * Sylvianna - Magma
 ### Side Characters
 * Pilot Dee - GammaRaul
