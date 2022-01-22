@@ -52,6 +52,7 @@
 * Anti-Matter Blade - GammaRaul
 * Aux the Dreedorus - Yoyodoodles
 * Manga Marx - MarxyBoi
+* Sylvia (mage) - Holly
 ### Bosses
 ### Mini-Bosses
 ### Enemies
