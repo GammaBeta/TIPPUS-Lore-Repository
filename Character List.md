@@ -10,11 +10,11 @@
 * Escargoon - Yoyodoodles
 * Galacta Knight - GammaRaul
 * Lor Starcutter - Acorn Acrom
+* Sailor Waddle Dee - BluberryDee
 * Taranza - Acorn Acrom
 * Flamberge - Acorn Acrom
 * Francisca - Omega Knight 64
 * Zan Partizanne - Holly
-* Sailor Waddle Dee - BluberryDee
 ### Villains
 * Dark Meta Knight - Acorn Acrom
 * Zero - GammaRaul
@@ -24,10 +24,10 @@
 * Holo-Defense API - GammaRaul, Magma, Omega Knight 64 and Theopold
 * Silver Doomer - Omega Knight 64
 ### Mini-Bosses
+* Arena Waddle Dee - BluberryDee
 * Chef Kawasaki - Yoyodoodles
 * Efreeti - BluberryDee
 * Javelin Knight - Theopold
-* Arena Waddle Dee - BluberryDee
 ### Enemies
 * Bio Spark - Nullblaster >Void<
 * Birdon - Boofis
@@ -36,12 +36,12 @@
 * Capsule J1 - Theopold
 * Como - Omega Knight 64
 * Gim - Theopold
+* N-Z - BluberryDee
 * Plasma Wisp - Omega Knight 64
 * Shotzo/Moto Shotzo - Nullblaster >Void< and Theopold
 * Waddle Dee - GammaRaul
 * Waddle Doo - GammaRaul
 * Walky - Theopold
-* N-Z - BluberryDee
 
 ## Original Characters
 ### Main Characters
