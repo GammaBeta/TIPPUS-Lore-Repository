@@ -20,6 +20,6 @@ Waddle Dee, Waddle Doo <br>
 **Boss:**
 Virus (shared with Gamma and Blu), Holo-Defense (shared with Gamma, Magma, and Omega) <br>
 **Miniboss:**
-Javelin Knight <br>
+Javelin Knight, OG Blocky <br>
 **Minor:**
 Blockin, J1, Gim( pronounced Jim), Shotzo, Moto Shotzo, Walky, Glunk, Parasol, Parasol Waddle Dee, _Kaboomba, Virus's Host_ <br>
