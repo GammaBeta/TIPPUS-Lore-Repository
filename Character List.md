@@ -14,6 +14,7 @@
 * Flamberge - Acorn Acrom
 * Francisca - Omega Knight 64
 * Zan Partizanne - Holly
+* Sailor Waddle Dee - BluberryDee
 ### Villains
 * Dark Meta Knight - Acorn Acrom
 * Zero - GammaRaul
@@ -26,6 +27,7 @@
 * Chef Kawasaki - Yoyodoodles
 * Efreeti - BluberryDee
 * Javelin Knight - Theopold
+* Arena Waddle Dee - BluberryDee
 ### Enemies
 * Bio Spark - Nullblaster >Void<
 * Birdon - Boofis
@@ -39,6 +41,7 @@
 * Waddle Dee - GammaRaul
 * Waddle Doo - GammaRaul
 * Walky - Theopold
+* N-Z - BluberryDee
 
 ## Original Characters
 ### Main Characters
@@ -60,3 +63,4 @@
 ### Mini-Bosses
 ### Enemies
 * Kaboomba/Virus Vessel - Theopold
+* Lava Waddle Dee - BluberryDee
