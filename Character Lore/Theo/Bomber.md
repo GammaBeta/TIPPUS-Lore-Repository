@@ -7,3 +7,5 @@ If it falls over, it is 100% going to explode. If it somehow doesn't, something 
 Bomber and TAC are the only known residents of the Copy Planet.
 
 It is known to hold grudges a VERY long time, for a certain one has walked all the way to Rainbow Resort and back just to find a Parasol Waddle Dee.
+
+STATUS: Searching the entirety of Popstar for Parasol Waddle Dee
