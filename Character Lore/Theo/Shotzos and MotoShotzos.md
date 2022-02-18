@@ -7,7 +7,5 @@ Original Shotzos cannot speak or move. The only thing they can do is aim and fir
 Shotzos are completely indestructible, but Moto Shotzos are not. Original ones also have a faster firing rate. Moto Shotzos have a cockpit which other beings can enter in an emergency, and have been known to protect other robots with this. Both can fire either clouds of smoke or **balls** out of their barrel.
 
 Status: 
-Theo's is adventuring with Kirby, but currently reverted
+Theo's is in Sand Canyon
 Nullblaster's is unknown
-
-(todo: make them interact with Blatzys? Invent the Mobile Blatzy, which would be the Revenge version of Moto Shotzo?)
