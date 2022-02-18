@@ -8,4 +8,4 @@ Bomber and TAC are the only known residents of the Copy Planet.
 
 It is known to hold grudges a VERY long time, for a certain one has walked all the way to Rainbow Resort and back just to find a Parasol Waddle Dee.
 
-STATUS: Searching the entirety of Popstar for Parasol Waddle Dee
+STATUS: Searching the entirety of Popstar for Master D, with his unnamed Squad.
