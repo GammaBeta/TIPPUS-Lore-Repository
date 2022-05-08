@@ -14,7 +14,7 @@
 * Taranza - Acorn Acrom
 * Flamberge - Acorn Acrom
 * Francisca - Omega Knight 64
-* Zan Partizanne - Holly
+* Zan Partizanne - JamJam
 ### Villains
 * Dark Meta Knight - Acorn Acrom
 * Zero - GammaRaul
@@ -45,12 +45,12 @@
 
 ## Original Characters
 ### Main Characters
-* Angel - Holly
+* Angel - JamJam
 * Frigi - Magma
 * Rea the Dreedorus - Yoyodoodles
 * Rebarx - MarxyBoi
 * Scorch - Magma
-* Sylvia (Mage) - Holly
+* Sylvia (Mage) - JamJam
 * Sylvianna - Magma
 ### Side Characters
 * Pilot Dee - GammaRaul
