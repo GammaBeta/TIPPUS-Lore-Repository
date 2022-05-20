@@ -1,14 +1,12 @@
 ## Canon Characters
+Characters Originating from either the games or the show.
 ### Main Characters
 * Kirby - GammaRaul
 * King Dedede - Magma
 * Marx - GammaRaul
 * Meta Knight - GammaRaul
 ### Side Characters
-* ChuChu - GammaRaul
 * Drawcia - Acorn Acrom
-* Escargoon - Yoyodoodles
-* Galacta Knight - GammaRaul
 * Lor Starcutter - Acorn Acrom
 * Sailor Waddle Dee - BluberryDee
 * Taranza - Acorn Acrom
@@ -19,18 +17,17 @@
 * Dark Meta Knight - Acorn Acrom
 * Zero - GammaRaul
 ### Bosses
+* Clawroline - JamJam
 * Computer Virus - BluberryDee, GammaRaul and Theopold
 * Heavy Lobster - Omega Knight 64
 * Holo-Defense API - GammaRaul, Magma, Omega Knight 64 and Theopold
 * Silver Doomer - Omega Knight 64
 ### Mini-Bosses
 * Arena Waddle Dee - BluberryDee
-* Chef Kawasaki - Yoyodoodles
 * Efreeti - BluberryDee
 * Javelin Knight - Theopold
 ### Enemies
 * Bio Spark - Nullblaster >Void<
-* Birdon - Boofis
 * Burning Leo - BluberryDee
 * Blockin - Theopold
 * Capsule J1 - Theopold
@@ -43,24 +40,40 @@
 * Waddle Doo - GammaRaul
 * Walky - Theopold
 
-## Original Characters
+## Half Canons
+Characters which aren't canon to neither the games or the show but technically aren't OCs.
 ### Main Characters
-* Angel - JamJam
-* Frigi - Magma
-* Rea the Dreedorus - Yoyodoodles
-* Rebarx - MarxyBoi
-* Scorch - Magma
-* Sylvia (Mage) - JamJam
-* Sylvianna - Magma
+* Manga Marx - MarxyBoi
 ### Side Characters
-* Pilot Dee - GammaRaul
-* Sammy - Yoyodoodles
 ### Villains
 * Anti-Matter Blade - GammaRaul
-* Aux the Dreedorus - Yoyodoodles
-* Manga Marx - MarxyBoi
+* Anti-Matter Nebula - Omega Knight 64
+* Anti Miracle Matter - Magma
+* Anti-Uja - Theopold
 ### Bosses
 ### Mini-Bosses
 ### Enemies
-* Kaboomba/Virus Vessel - Theopold
+* Kaboomba - Theopold
+
+## Original Characters
+Non-canon characters created by one of the server members
+### Main Characters
+* Angel - JamJam
+* Frigi - Magma
+* Rebarx - MarxyBoi
+* Scorch - Magma
+* Sylvia (Mage) - JamJam
+* Sylvia - Magma
+### Side Characters
+* Pilot Dee - GammaRaul
+* Lunar - MarxyBoi
+* Moonstone - MarxyBoi
+* Solar - MarxyBoi
+### Villains
+* The Tear - MarxyBoi
+* Umbrako [Dead] - MarxyBoi
+### Bosses
+### Mini-Bosses
+### Enemies
+* Virus Vessel - Theopold
 * Lava Waddle Dee - BluberryDee
